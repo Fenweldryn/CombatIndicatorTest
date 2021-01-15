@@ -1,0 +1,6 @@
+## Title: Combat Indicator Test
+## APIVersion: 100033
+## SavedVariables: CombatIndicatorSavedVariables
+
+CombatIndicatorTest.lua
+CombatIndicatorTest.xml
